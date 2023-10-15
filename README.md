@@ -8,8 +8,8 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ruzgarimren&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruzgarimren&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzgarimren&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com?user=ruzgarimren&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzgarimren&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruzgarimren&theme=radical&no-frame=false&no-bg=true&margin-w=4)
