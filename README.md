@@ -8,7 +8,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ruzgarimren&theme=dark&hide_border=false&include_all_commits=false&combine_all_yearly_contributions=true&count_private_commits=false&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruzgarimren&theme=dark&hide_border=false&combine_all_yearly_contributions=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruzgarimren&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzgarimren&theme=dark&hide_border=false&include_all_commits=false&layout=compact)<br/>
 
 
