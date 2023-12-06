@@ -1,4 +1,4 @@
-## Ruzgar Imren | Brian Yu
+## Ruzgar Imren | Ragzuris
 
 
 ### 💻 Tech Stack:
